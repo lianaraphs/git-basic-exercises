@@ -1,0 +1,156 @@
+    1  pip install -U flask numpy pandas scikit-learn
+    2  pip install --upgrade
+    3  pip install --upgrade pip' command
+    4  git clone https://github.com/lianaraphs/load-shortfall-regression-predict-api.git
+    5  cd ..
+    6  exit
+    7  cd C:\Users\liana\Load API/load-shortfall-regression-predict-api/utils/
+    8  cd Desktop/load-shortfall-regression-predict-api/utils/
+    9  cd "C:\Users\liana\load-shortfall-regression-predict-api\utils"
+   10  python request.py
+   11  python request.py
+   12  cd Users/liana/load-shortfall-regression-predict-api/utils/
+   13  python request.py
+   14  cd Desktop/load-shortfall-regression-predict-api/
+   15  cd Desktop/load-shortfall-regression-predict-api/utils/
+   16  cd C:\Users\liana\load-shortfall-regression-predict-api
+   17  cd load-shortfall-regression-predict-api/utils/
+   18  python request.py
+   19  cd Desktop/load-shortfall-regression-predict-api/utils/
+   20  cd C:\Users\liana\OneDrive\Desktop
+   21  git clone https://github.com/lianaraphs/load-shortfall-regression-predict-api.git
+   22  cd load-shortfall-regression-predict-api/python api.py
+   23  cd load-shortfall-regression-predict-api/
+   24  python api.py
+   25  ls
+   26  nano
+   27  git config --list
+   28  git config --list --system
+   29  git config --list --global
+   30  ls -lrh
+   31  ls
+   32  ls /
+   33  ls /data
+   34  ls /etc/perl
+   35  ls /
+   36  pwd
+   37  mkdir Learning_unix
+   38  ls
+   39  cd Learning_unix
+   40  mkdir Outer_directory
+   41  cd Outer_directory/
+   42  mkdir Inner_directory
+   43  cd Inner_directory/
+   44  cd home
+   45  cd /
+   46  cd  home
+   47  cd users
+   48  pwd
+   49  cd liana
+   50  cd /c/Users/liana
+   51  pwd
+   52  cd Learning_unix/
+   53  cd ..
+   54  pwd
+   55  cd ..
+   56  pwd
+   57  cd /
+   58  pwd
+   59  cd ~
+   60  pwd
+   61  cd
+   62  pwd
+   63  cd /
+   64  cd ~/Learning_unix
+   65  cd Outer_directory/
+   66  ls ../../
+   67  ls -l /Users
+   68  ls -l /c/Users
+   69  ls -l ~/Learning_unix
+   70  ls -R ~/liana
+   71  ls -R ~/Learning_unix
+   72  ls -l -t -r ~/Learning_unix
+   73  ls -lh ~/Learning_unix
+   74  man ls
+   75  cd ~
+   76  man ls
+   77  man cd
+   78  ls --help
+   79  cd --help
+   80  help --help
+   81  rmdir --help
+   82  cd ~/Learning_unix/Outer_directory
+   83  rmdir Inner_directory/
+   84  cd ..
+   85  rmdir Outer_directory/
+   86  ls
+   87  cd ~
+   88  cd Learning_unix/
+   89  history
+   90  dir
+   91  ls
+   92  exit
+   93  pwd
+   94  mkdir git-basic-exercises
+   95  cd git-basic-exercises/
+   96  ls -a
+   97  git init
+   98  ls -a
+   99  git status
+  100  touch README.md
+  101  ls -a
+  102  git status
+  103  git add README.md
+  104  git status
+  105  git rm --cached README.md
+  106  git status
+  107  git add README.md
+  108  git status
+  109  git commit -m "initial commit"
+  110  git log
+  111  nano README.md
+  112  cat README.md
+  113  git status
+  114  git commit -a
+  115  cd ~/git-basic-exercises
+  116  pwd
+  117  git status
+  118  git add README.md
+  119  rm -f .git/index.lock
+  120  git add README.md
+  121  nano README.md
+  122  git status
+  123  git commit -m "second commit"
+  124  nano README.md
+  125  git status
+  126  git add README.md
+  127  git commit -m "third commit"
+  128  git log
+  129  pwd
+  130  git checkout 304f767b90d9e1845237860e1c009b57e1b43e4a
+  131  cat README.md
+  132  git checkout main
+  133  git checkout master
+  134  cat README.md
+  135  ls
+  136  git branch
+  137  git checkout -b milkshake-flavours
+  138  git branch
+  139  git checkout milkshake-flavours -flavours
+  140  git branch
+  141  git checkout master
+  142  git branch
+  143  git checkout milkshake-flavours
+  144  git branch
+  145  nano milkshakes.md
+  146  git status
+  147  git add milkshakes.md
+  148  git status
+  149  git commit -m "added initial flavours"
+  150  git log
+  151  git checkout master
+  152  git log
+  153  git checkout -b history
+  154  git log
+  155  git branch
+  156  history>history.txt
